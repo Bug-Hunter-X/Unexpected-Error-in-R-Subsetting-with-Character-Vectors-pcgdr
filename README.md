@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in R programming related to data frame subsetting using character vectors.  The `bug.R` file shows the incorrect implementation leading to unexpected results, while `bugSolution.R` provides the corrected code and explanation.
